@@ -1,0 +1,197 @@
+Country,Document for validation,Non-Doc Verification,Disabled,Code,Name,Native,Phone,Continent,Capital,Currency,Languages
+Afghanistan,"-", "-", true, AF, Afghanistan, افغانستان, 93, Asia, Kabul, AFN, ps,uz,tk
+Albania,"-", "-", true, AL, Albania, Shqipëria, 355, Europe, Tirana, ALL, sq
+Algeria,"-", "-", true, DZ, Algeria, الجزائر, 213, Africa, Algiers, DZD, ar
+Andorra,"-", "-", true, AD, Andorra, Andorra, 376, Europe, Andorra la Vella, EUR, ca
+Angola,"-", "-", true, AO, Angola, Angola, 244, Africa, Luanda, AOA, pt
+Antigua and Barbuda,"-", "-", true, AG, Antigua and Barbuda, Antigua and Barbuda, 1-268, Americas, Saint John's, XCD, en
+Argentina,"ID card, Residence permit, Driving license, DNI", true, false, AR, Argentina, Argentina, 54, Americas, Buenos Aires, ARS, es
+Armenia,"-", "-", true, AM, Armenia, Հայաստան, 374, Asia, Yerevan, AMD, hy,ru
+Australia,"-", "-", true, AU, Australia, Australia, 61, Oceania, Canberra, AUD, en
+Austria,"-", "-", true, AT, Austria, Österreich, 43, Europe, Vienna, EUR, de
+Azerbaijan,"-", "-", true, AZ, Azerbaijan, Azərbaycan, 994, Asia, Baku, AZN, az,ru
+Bahamas,"-", "-", true, BS, Bahamas, Bahamas, 1-242, Americas, Nassau, BSD, en
+Bahrain,"-", "-", true, BH, Bahrain, ‏البحرين, 973, Asia, Manama, BHD, ar
+Bangladesh,"-", "-", true, BD, Bangladesh, Bangladesh, 880, Asia, Dhaka, BDT, bn
+Barbados,"-", "-", true, BB, Barbados, Barbados, 1-246, Americas, Bridgetown, BBD, en
+Belarus,"-", "-", true, BY, Belarus, Белару́сь, 375, Europe, Minsk, BYN, be, ru
+Belgium,"-", "-", true, BE, Belgium, België, 32, Europe, Brussels, EUR, nl, fr, de
+Belize,"-", "-", true, BZ, Belize, Belize, 501, Americas, Belmopan, BZD, en, es
+Benin,"-", "-", true, BJ, Benin, Bénin, 229, Africa, Porto-Novo, XOF, fr, ff
+Bhutan,"-", "-", true, BT, Bhutan, ʼbrug-yul, 975, Asia, Thimphu, BTN, dz
+Bolivia,"-", "-", true, BO, Bolivia, Bolivia, 591, Americas, Sucre, BOB, es, ay, qu
+Bosnia and Herzegovina,"-", "-", true, BA, Bosnia and Herzegovina, Bosna i Hercegovina, 387, Europe, Sarajevo, BAM, bs, hr, sr
+Botswana,"-", "-", true, BW, Botswana, Botswana, 267, Africa, Gaborone, BWP, en, tn
+Brazil,"ID card, Residence permit, Driving license, DNI", true, false, BR, Brazil, Brasil, 55, Americas, Brasília, BRL, pt
+Brunei,"-", "-", true, BN, Brunei, Negara Brunei Darussalam, 673, Asia, Bandar Seri Begawan, BND, ms
+Bulgaria,"-", "-", true, BG, Bulgaria, България, 359, Europe, Sofia, BGN, bg
+Bahamas,"-", "-", true, BS, Bahamas, Bahamas, 1-242, Americas, Nassau, BSD, en
+Bahrain,"-", "-", true, BH, Bahrain, ‏البحرين, 973, Asia, Manama, BHD, ar
+Bangladesh,"-", "-", true, BD, Bangladesh, Bangladesh, 880, Asia, Dhaka, BDT, bn
+Barbados,"-", "-", true, BB, Barbados, Barbados, 1-246, Americas, Bridgetown, BBD, en
+Belarus,"-", "-", true, BY, Belarus, Белару́сь, 375, Europe, Minsk, BYN, be, ru
+Belgium,"-", "-", true, BE, Belgium, België, 32, Europe, Brussels, EUR, nl, fr, de
+Belize,"-", "-", true, BZ, Belize, Belize, 501, Americas, Belmopan, BZD, en, es
+Benin,"-", "-", true, BJ, Benin, Bénin, 229, Africa, Porto-Novo, XOF, fr, ff
+Bhutan,"-", "-", true, BT, Bhutan, ʼbrug-yul, 975, Asia, Thimphu, BTN, dz
+Bolivia,"-", "-", true, BO, Bolivia, Bolivia, 591, Americas, Sucre, BOB, es, ay, qu
+Bosnia and Herzegovina,"-", "-", true, BA, Bosnia and Herzegovina, Bosna i Hercegovina, 387, Europe, Sarajevo, BAM, bs, hr, sr
+Botswana,"-", "-", true, BW, Botswana, Botswana, 267, Africa, Gaborone, BWP, en, tn
+Brazil,"ID card, Residence permit, Driving license, DNI", true, false, BR, Brazil, Brasil, 55, Americas, Brasília, BRL, pt
+Brunei,"-", "-", true, BN, Brunei, Negara Brunei Darussalam, 673, Asia, Bandar Seri Begawan, BND, ms
+Bulgaria,"-", "-", true, BG, Bulgaria, България, 359, Europe, Sofia, BGN, bg
+Croatia,"-", "-", true, HR, Croatia, Hrvatska, 385, Europe, Zagreb, HRK, hr
+Cuba,"-", "-", true, CU, Cuba, Cuba, 53, Americas, Havana, CUP,CUC, es
+Cyprus,"-", "-", true, CY, Cyprus, Κύπρος, 357, Europe, Nicosia, EUR, el,tr,hy
+Czechia (Czech Republic),"-", "-", true, CZ, Czechia (Czech Republic), Česko, 420, Europe, Prague, CZK, cs,sk
+Democratic Republic of the Congo,"-", "-", true, CD, Democratic Republic of the Congo, Congo (Kinshasa), 243, Africa, Kinshasa, CDF, fr,ln
+Denmark,"-", "-", true, DK, Denmark, Danmark, 45, Europe, Copenhagen, DKK, da
+Djibouti,"-", "-", true, DJ, Djibouti, Djibouti, 253, Africa, Djibouti, DJF, fr,ar
+Dominica,"-", "-", true, DM, Dominica, Dominica, 1-767, Americas, Roseau, XCD, en
+Dominican Republic,"-", "-", true, DO, Dominican Republic, República Dominicana, 1-809, 1-829, 1-849, Americas, Santo Domingo, DOP, es
+Ecuador,"-", "-", true, EC, Ecuador, Ecuador, 593, Americas, Quito, USD, es
+Egypt,"-", "-", true, EG, Egypt, مصر‎, 20, Africa, Cairo, EGP, ar
+El Salvador,"-", "-", true, SV, El Salvador, El Salvador, 503, Americas, San Salvador, USD, es
+Equatorial Guinea,"-", "-", true, GQ, Equatorial Guinea, Guinea Ecuatorial, 240, Africa, Malabo, XAF, es,fr,pt
+Eritrea,"-", "-", true, ER, Eritrea, ኤርትራ, 291, Africa, Asmara, ERN, ti,ar,en
+Estonia,"-", "-", true, EE, Estonia, Eesti, 372, Europe, Tallinn, EUR, et
+Eswatini (fmr. "Swaziland"),"-", "-", true, SZ, Eswatini (fmr. "Swaziland"), Eswatini, 268, Africa, Lobamba, SZL, en,ss
+Ethiopia,"-", "-", true, ET, Ethiopia, ኢትዮጵያ, 251, Africa, Addis Ababa, ETB, am
+Fiji,"-", "-", true, FJ, Fiji, Fiji, 679, Oceania, Suva, FJD, en,fj,hi,ur
+Finland,"-", "-", true, FI, Finland, Suomi, 358, Europe, Helsinki, EUR, fi,sv
+France,"-", "-", true, FR, France, France, 33, Europe, Paris, EUR, fr
+Gabon,"-", "-", true, GA, Gabon, Gabon, 241, Africa, Libreville, XAF, fr
+Gambia,"-", "-", true, GM, Gambia, Gambia, 220, Africa, Banjul, GMD, en
+Georgia,"-", "-", true, GE, Georgia, საქართველო, 995, Asia, Tbilisi, GEL, ka
+Germany,"-", "-", true, DE, Germany, Deutschland, 49, Europe, Berlin, EUR, de
+Ghana,"-", "-", true, GH, Ghana, Ghana, 233, Africa, Accra, GHS, en
+Greece,"-", "-", true, GR, Greece, Ελλάδα, 30, Europe, Athens, EUR, el
+Grenada,"-", "-", true, GD, Grenada, Grenada, 1-473, Americas, St. George's, XCD, en
+Guatemala,"-", "-", true, GT, Guatemala, Guatemala, 502, Americas, Guatemala City, GTQ, es
+Guinea,"-", "-", true, GN, Guinea, Guinée, 224, Africa, Conakry, GNF, fr,ff
+Guinea-Bissau,"-", "-", true, GW, Guinea-Bissau, Guiné-Bissau, 245, Africa, Bissau, XOF, pt
+Guyana,"-", "-", true, GY, Guyana, Guyana, 592, Americas, Georgetown, GYD, en
+Haiti,"-", "-", true, HT, Haiti, Haïti, 509, Americas, Port-au-Prince, HTG, fr,ht
+Holy See,"-", "-", true, VA, Holy See, Sancta Sedes, 379, Europe, Vatican City, EUR, la,it,fr
+Honduras,"-", "-", true, HN, Honduras, Honduras, 504, Americas, Tegucigalpa, HNL, es
+Hungary,"-", "-", true, HU, Hungary, Magyarország, 36, Europe, Budapest, HUF, hu
+Iceland,"-", "-", true, IS, Iceland, Ísland, 354, Europe, Reykjavik, ISK, is
+India,"-", "-", true, IN, India, भारत, 91, Asia, New Delhi, INR, hi,en
+Indonesia,"-", "-", true, ID, Indonesia, Indonesia, 62, Asia, Jakarta, IDR, id
+Iran,"-", "-", true, IR, Iran, ایران, 98, Asia, Tehran, IRR, fa
+Iraq,"-", "-", true, IQ, Iraq, العراق, 964, Asia, Baghdad, IQD, ar,ku
+Ireland,"-", "-", true, IE, Ireland, Éire, 353, Europe, Dublin, EUR, ga,en
+Israel,"-", "-", true, IL, Israel, ישראל, 972, Asia, Jerusalem, ILS, he,ar,en
+Italy,"-", "-", true, IT, Italy, Italia, 39, Europe, Rome, EUR, it
+Jamaica,"-", "-", true, JM, Jamaica, Jamaica, 1-876, Americas, Kingston, JMD, en
+Japan,"-", "-", true, JP, Japan, 日本, 81, Asia, Tokyo, JPY, ja
+Jordan,"-", "-", true, JO, Jordan, الأردن, 962, Asia, Amman, JOD, ar
+Kazakhstan,"-", "-", true, KZ, Kazakhstan, Қазақстан, 7, Asia, Nur-Sultan, KZT, kk,ru
+Kenya,"-", "-", true, KE, Kenya, Kenya, 254, Africa, Nairobi, KES, en,sw
+Kiribati,"-", "-", true, KI, Kiribati, Kiribati, 686, Oceania, South Tarawa, AUD, en
+Kuwait,"-", "-", true, KW, Kuwait, الكويت, 965, Asia, Kuwait City, KWD, ar
+Kyrgyzstan,"-", "-", true, KG, Kyrgyzstan, Кыргызстан, 996, Asia, Bishkek, KGS, ky,ru
+Laos,"-", "-", true, LA, Laos, ສ.ປ.ປ ລາວ, 856, Asia, Vientiane, LAK, lo
+Latvia,"-", "-", true, LV, Latvia, Latvija, 371, Europe, Riga, EUR, lv
+Lebanon,"-", "-", true, LB, Lebanon, لبنان, 961, Asia, Beirut, LBP, ar,fr
+Lesotho,"-", "-", true, LS, Lesotho, Lesotho, 266, Africa, Maseru, LSL,ZAR, en,st
+Liberia,"-", "-", true, LR, Liberia, Liberia, 231, Africa, Monrovia, LRD, en
+Libya,"-", "-", true, LY, Libya, ليبيا, 218, Africa, Tripoli, LYD, ar
+Liechtenstein,"-", "-", true, LI, Liechtenstein, Liechtenstein, 423, Europe, Vaduz, CHF, de
+Lithuania,"-", "-", true, LT, Lithuania, Lietuva, 370, Europe, Vilnius, EUR, lt
+Luxembourg,"-", "-", true, LU, Luxembourg, Luxembourg, 352, Europe, Luxembourg, EUR, lb,de,fr
+Madagascar,"-", "-", true, MG, Madagascar, Madagasikara, 261, Africa, Antananarivo, MGA, fr,mg
+Malawi,"-", "-", true, MW, Malawi, Malawi, 265, Africa, Lilongwe, MWK, en,ny
+Malaysia,"-", "-", true, MY, Malaysia, Malaysia, 60, Asia, Kuala Lumpur, MYR, ms
+Maldives,"-", "-", true, MV, Maldives, ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ, 960, Asia, Malé, MVR, dv
+Mali,"-", "-", true, ML, Mali, Mali, 223, Africa, Bamako, XOF, fr
+Malta,"-", "-", true, MT, Malta, Malta, 356, Europe, Valletta, EUR, mt,en
+Marshall Islands,"-", "-", true, MH, Marshall Islands, M̧ajeļ, 692, Oceania, Majuro, USD, en,mh
+Mauritania,"-", "-", true, MR, Mauritania, موريتانيا, 222, Africa, Nouakchott, MRO, ar
+Mauritius,"-", "-", true, MU, Mauritius, Maurice, 230, Africa, Port Louis, MUR, en
+Mexico,"-", "-", true, MX, Mexico, México, 52, Americas, Mexico City, MXN, es
+Micronesia,"-", "-", true, FM, Micronesia, Micronesia, 691, Oceania, Palikir, USD, en
+Moldova,"-", "-", true, MD, Moldova, Moldova, 373, Europe, Chișinău, MDL, ro
+Monaco,"-", "-", true, MC, Monaco, Monaco, 377, Europe, Monaco, EUR, fr
+Mongolia,"-", "-", true, MN, Mongolia, Монгол улс, 976, Asia, Ulaanbaatar, MNT, mn
+Montenegro,"-", "-", true, ME, Montenegro, Crna Gora, 382, Europe, Podgorica, EUR, sr,bs,sq,hr
+Morocco,"-", "-", true, MA, Morocco, المغرب, 212, Africa, Rabat, MAD, ar
+Mozambique,"-", "-", true, MZ, Mozambique, Moçambique, 258, Africa, Maputo, MZN, pt
+Myanmar (formerly Burma),"-", "-", true, MM, Myanmar (formerly Burma), မြန်မာ, 95, Asia, Naypyidaw, MMK, my
+Namibia,"-", "-", true, NA, Namibia, Namibia, 264, Africa, Windhoek, NAD,ZAR, en,af
+Nauru,"-", "-", true, NR, Nauru, Nauru, 674, Oceania, Yaren, AUD, en,na
+Nepal,"-", "-", true, NP, Nepal, नेपाल, 977, Asia, Kathmandu, NPR, ne
+Netherlands,"-", "-", true, NL, Netherlands, Nederland, 31, Europe, Amsterdam, EUR, nl
+New Zealand,"-", "-", true, NZ, New Zealand, New Zealand, 64, Oceania, Wellington, NZD, en,mi
+Nicaragua,"-", "-", true, NI, Nicaragua, Nicaragua, 505, Americas, Managua, NIO, es
+Niger,"-", "-", true, NE, Niger, Niger, 227, Africa, Niamey, XOF, fr
+Nigeria,"-", "-", true, NG, Nigeria, Nigeria, 234, Africa, Abuja, NGN, en
+North Korea,"-", "-", true, KP, North Korea, 북한, 850, Asia, Pyongyang, KPW, ko
+North Macedonia (formerly Macedonia),"-", "-", true, MK, North Macedonia (formerly Macedonia), Северна Македонија, 389, Europe, Skopje, MKD, mk
+Norway,"-", "-", true, NO, Norway, Norge, 47, Europe, Oslo, NOK, no,nb,nn
+Oman,"-", "-", true, OM, Oman, عمان, 968, Asia, Muscat, OMR, ar
+Pakistan,"-", "-", true, PK, Pakistan, پاکستان, 92, Asia, Islamabad, PKR, ur,en
+Palau,"-", "-", true, PW, Palau, Palau, 680, Oceania, Ngerulmud, USD, en
+Palestine,"-", "-", true, PS, Palestine, فلسطين, 970, Asia, Ramallah, ILS, ar
+Panama,"-", "-", true, PA, Panama, Panamá, 507, Americas, Panama City, PAB,USD, es
+Papua New Guinea,"-", "-", true, PG, Papua New Guinea, Papua Niugini, 675, Oceania, Port Moresby, PGK, en
+Paraguay,"-", "-", true, PY, Paraguay, Paraguay, 595, Americas, Asunción, PYG, es,gn
+Peru,"-", "-", true, PE, Peru, Perú, 51, Americas, Lima, PEN, es
+Philippines,"-", "-", true, PH, Philippines, Pilipinas, 63, Asia, Manila, PHP, en
+Poland,"-", "-", true, PL, Poland, Polska, 48, Europe, Warsaw, PLN, pl
+Portugal,"-", "-", true, PT, Portugal, Portugal, 351, Europe, Lisbon, EUR, pt
+Qatar,"-", "-", true, QA, Qatar, قطر, 974, Asia, Doha, QAR, ar
+Romania,"-", "-", true, RO, Romania, România, 40, Europe, Bucharest, RON, ro
+Russia,"-", "-", true, RU, Russia, Россия, 7, Europe, Moscow, RUB, ru
+Rwanda,"-", "-", true, RW, Rwanda, Rwanda, 250, Africa, Kigali, RWF, rw,en,fr
+Saint Kitts and Nevis,"-", "-", true, KN, Saint Kitts and Nevis, Saint Kitts and Nevis, 1-869, Americas, Basseterre, XCD, en
+Saint Lucia,"-", "-", true, LC, Saint Lucia, Saint Lucia, 1-758, Americas, Castries, XCD, en
+Saint Vincent and the Grenadines,"-", "-", true, VC, Saint Vincent and the Grenadines, Saint Vincent and the Grenadines, 1-784, Americas, Kingstown, XCD, en
+Samoa,"-", "-", true, WS, Samoa, Samoa, 685, Oceania, Apia, WST, sm,en
+San Marino,"-", "-", true, SM, San Marino, San Marino, 378, Europe, San Marino, EUR, it
+Sao Tome and Principe,"-", "-", true, ST, Sao Tome and Principe, São Tomé e Príncipe, 239, Africa, São Tomé, STN, pt
+Saudi Arabia,"-", "-", true, SA, Saudi Arabia, العربية السعودية, 966, Asia, Riyadh, SAR, ar
+Senegal,"-", "-", true, SN, Senegal, Sénégal, 221, Africa, Dakar, XOF, fr
+Serbia,"-", "-", true, RS, Serbia, Србија, 381, Europe, Belgrade, RSD, sr
+Seychelles,"-", "-", true, SC, Seychelles, Seychelles, 248, Africa, Victoria, SCR, fr,en
+Sierra Leone,"-", "-", true, SL, Sierra Leone, Sierra Leone, 232, Africa, Freetown, SLL, en
+Singapore,"-", "-", true, SG, Singapore, Singapore, 65, Asia, Singapore, SGD, en,ms,ta,zh
+Slovakia,"-", "-", true, SK, Slovakia, Slovensko, 421, Europe, Bratislava, EUR, sk
+Slovenia,"-", "-", true, SI, Slovenia, Slovenija, 386, Europe, Ljubljana, EUR, sl
+Solomon Islands,"-", "-", true, SB, Solomon Islands, Solomon Islands, 677, Oceania, Honiara, SBD, en
+Somalia,"-", "-", true, SO, Somalia, Soomaaliya, 252, Africa, Mogadishu, SOS, so,ar
+South Africa,"-", "-", true, ZA, South Africa, South Africa, 27, Africa, Pretoria, ZAR, en,af,zu,xh,sw,ts,ss,tn,st,ss,ve,nr
+South Korea,"-", "-", true, KR, South Korea, 대한민국, 82, Asia, Seoul, KRW, ko
+South Sudan,"-", "-", true, SS, South Sudan, South Sudan, 211, Africa, Juba, SSP, en
+Spain,"-", "-", true, ES, Spain, España, 34, Europe, Madrid, EUR, es
+Sri Lanka,"-", "-", true, LK, Sri Lanka, ශ්‍රී ලංකාව, 94, Asia, Colombo, LKR, si,ta
+Sudan,"-", "-", true, SD, Sudan, السودان, 249, Africa, Khartoum, SDG, ar,en
+Suriname,"-", "-", true, SR, Suriname, Suriname, 597, Americas, Paramaribo, SRD, nl
+Sweden,"-", "-", true, SE, Sweden, Sverige, 46, Europe, Stockholm, SEK, sv
+Switzerland,"-", "-", true, CH, Switzerland, Schweiz, 41, Europe, Bern, CHF, de,fr,it,rm
+Syria,"-", "-", true, SY, Syria, سوريا, 963, Asia, Damascus, SYP, ar
+Taiwan,"-", "-", true, TW, Taiwan, 臺灣, 886, Asia, Taipei, TWD, zh
+Tajikistan,"-", "-", true, TJ, Tajikistan, Тоҷикистон, 992, Asia, Dushanbe, TJS, tg,ru
+Tanzania,"-", "-", true, TZ, Tanzania, Tanzania, 255, Africa, Dodoma, TZS, sw,en
+Thailand,"-", "-", true, TH, Thailand, ไทย, 66, Asia, Bangkok, THB, th
+Timor-Leste,"-", "-", true, TL, Timor-Leste, Timor-Leste, 670, Asia, Dili, USD, pt, tet
+Togo,"-", "-", true, TG, Togo, Togo, 228, Africa, Lomé, XOF, fr
+Tonga,"-", "-", true, TO, Tonga, Tonga, 676, Oceania, Nuku'alofa, TOP, en,to
+Trinidad and Tobago,"-", "-", true, TT, Trinidad and Tobago, Trinidad and Tobago, 1-868, Americas, Port of Spain, TTD, en
+Tunisia,"-", "-", true, TN, Tunisia, تونس, 216, Africa, Tunis, TND, ar
+Turkey,"-", "-", true, TR, Turkey, Türkiye, 90, Asia, Ankara, TRY, tr
+Turkmenistan,"-", "-", true, TM, Turkmenistan, Türkmenistan, 993, Asia, Ashgabat, TMT, tk,ru
+Tuvalu,"-", "-", true, TV, Tuvalu, Tuvalu, 688, Oceania, Funafuti, AUD, en
+Uganda,"-", "-", true, UG, Uganda, Uganda, 256, Africa, Kampala, UGX, en,sw
+Ukraine,"-", "-", true, UA, Ukraine, Україна, 380, Europe, Kyiv, UAH, uk
+United Arab Emirates,"-", "-", true, AE, United Arab Emirates, الإمارات العربية المتحدة, 971, Asia, Abu Dhabi, AED, ar
+United Kingdom,"-", "-", true, GB, United Kingdom, United Kingdom, 44, Europe, London, GBP, en
+United States of America,"-", "-", true, US, United States of America, United States, 1, Americas, Washington, D.C., USD, en
+Uruguay,"-", "-", true, UY, Uruguay, Uruguay, 598, Americas, Montevideo, UYU, es
+Uzbekistan,"-", "-", true, UZ, Uzbekistan, Oʻzbekiston, 998, Asia, Tashkent, UZS, uz,ru
+Vanuatu,"-", "-", true, VU, Vanuatu, Vanuatu, 678, Oceania, Port Vila, VUV, bi,en,fr
+Venezuela,"-", "-", true, VE, Venezuela, Venezuela, 58, Americas, Caracas, VES, es
+Vietnam,"-", "-", true, VN, Vietnam, Việt Nam, 84, Asia, Hanoi, VND, vi
+Yemen,"-", "-", true, YE, Yemen, اليَمَن, 967, Asia, Sana'a, YER, ar
+Zambia,"-", "-", true, ZM, Zambia, Zambia, 260, Africa, Lusaka, ZMW, en
+Zimbabwe,"-", "-", true, ZW, Zimbabwe, Zimbabwe, 263, Africa, Harare, ZWL, en,sn,nd
